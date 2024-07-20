@@ -17,9 +17,4 @@ Before you begin, ensure you have met the following requirements:
 - Node.js and npm installed.
 - MongoDB installed and running.
 
-## Getting Started
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/HarishVinayagamoorthy/Password-Reset
